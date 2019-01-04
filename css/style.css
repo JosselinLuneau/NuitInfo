@@ -1,0 +1,26 @@
+*{padding:0;margin:0;}
+
+canvas {
+	position : absolute;
+	width : 100%;
+	height : 100%;
+	top : 0;
+}
+
+p {
+	padding : 1vh;
+}
+
+#informations {
+	position : absolute;
+	margin-left : 650px;
+	top : 0;
+	right : 0;
+	background : rgba(250, 250, 250, 0.75);
+	padding : 2vh;
+}
+
+#map {
+ width : 100%;
+ height : 100vh;
+}

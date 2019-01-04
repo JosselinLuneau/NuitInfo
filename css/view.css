@@ -1,0 +1,34 @@
+#rules
+{
+    display: none;
+}
+
+#description
+{
+    display: none;
+}
+
+#credits
+{
+    display: none;
+}
+
+.title_container
+{
+    position: absolute;
+    top: 10%;
+    left: 60%;
+    font-size: 60px;
+}
+
+#video
+{
+    position: absolute;
+    left: 40%;
+    top: 35%;
+}
+
+.site_sections div ul
+{
+    list-style: none;
+}
